@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6EA09522-B812-46C4-9075-16E5BF1693FB}</ProjectGuid>
+    <ProjectGuid>{913E354E-DD71-44B1-A614-D123289F0F5F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Classwork</RootNamespace>
-    <AssemblyName>Classwork</AssemblyName>
+    <RootNamespace>Практика_B</RootNamespace>
+    <AssemblyName>Практика B</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
