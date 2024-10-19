@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задание 4 Функция проверки чётности", "Задание 4 Функция проверки чётности.csproj", "{40662F90-A5C9-4767-997F-3D958430373B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40662F90-A5C9-4767-997F-3D958430373B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40662F90-A5C9-4767-997F-3D958430373B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40662F90-A5C9-4767-997F-3D958430373B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40662F90-A5C9-4767-997F-3D958430373B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D37BCD8C-7E3B-451B-9DCD-82641A3E19F9}
+	EndGlobalSection
+EndGlobal
