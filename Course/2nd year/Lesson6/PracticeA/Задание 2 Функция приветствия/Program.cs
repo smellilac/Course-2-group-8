@@ -16,7 +16,8 @@ namespace Задание_2_Функция_приветствия
         }
         static void User(string name)
         {
-            Console.WriteLine("Привет," + name);
+            Console.WriteLine("Привет," + name); // удобно использовать интерполяцию строк - это когда в строку можно вставлять например переменные
+            // Console.WriteLine($"Привет: {name}");
             Console.ReadKey();
         }
     }
