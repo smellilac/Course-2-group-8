@@ -22,6 +22,7 @@ namespace Функция_суммы_задание_1
             return x + y;
             
         }
+        // можно сделать метод Sum чуть красивее static int Sum(int x, int y) => x + y;
       
     }
 }
